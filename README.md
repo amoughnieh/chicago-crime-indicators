@@ -69,3 +69,12 @@ The ultimate aim is to provide transparent insights into the complex interplay b
         ```
     * Open your web browser and go to `http://localhost:8000`.
     * Alternatively, the visualization is deployed at: [https://cse6242-team077-vis.web.app/index.html](https://cse6242-team077-vis.web.app/index.html)
+    * 
+
+## Original Project Team
+
+- Ali Moughnieh (Georgia Tech)
+- Anas Said (Georgia Tech)
+- Herdy Cen (Georgia Tech)
+- Jisu Um (Georgia Tech)
+- Van Dang (Georgia Tech)
