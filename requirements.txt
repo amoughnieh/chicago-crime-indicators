@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+group_lasso
+scipy
+xgboost
+bayes_opt
+seaborn

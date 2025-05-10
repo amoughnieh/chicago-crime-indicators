@@ -1,0 +1,10 @@
+Feature,Importance,Correlation,Description
+unemployment_rate,0.21541382372379303,0.7730757225878406,Ratio of unemployed individuals to the total labor force. Calculated as UNEMP / IN_LBFRC.
+rent_to_income,0.2086125761270523,0.8051099091015017,Annual median rent as a proportion of median household income. Calculated as (MED_RENT * 12) / MEDINC.
+economic_vitality_index,-0.19388499855995178,-0.6418873132602808,"Composite indicator averaging normalized values of employment rate, higher education rate, high income percentage, and percentage of households not in poverty. Higher values indicate stronger economic conditions."
+vacancy_rate,0.19379720091819763,0.8046389651980715,Percentage of housing units that are vacant. Calculated as VAC_HU / HU_TOT.
+disability_rate,0.07129627466201782,0.7465663824378446,Percentage of total population with any disability. Calculated as DISAB_ANY / recent_population.
+gentrification_risk,0.04314783215522766,0.624473696303354,"Indicator of how likely an area is experiencing or may experience gentrification. It combines multiple housing affordability factors: how much of residents' income goes to rent, how expensive homes are compared to local incomes, the percentage of high-cost rental units, and how much recent housing development has occurred. Higher values suggest greater housing cost pressures that could displace existing residents."
+vacant_land_pct,0.03256378322839737,0.6881053570109864,Percentage of total land area that is vacant. Corresponds to VACperc in the original dataset.
+income_diversity,-0.023944217711687088,-0.5886621788567206,"Measure of how evenly distributed household incomes are across different income brackets. A higher value means the area has a good mix of income levels (from low to high) rather than being concentrated in just one income group. Areas with low values tend to be economically homogeneous, while areas with high values have a more economically diverse population."
+low_income_pct,0.017339246347546577,0.7826354956507315,"Percentage of households with income less than $25,000. Calculated as INC_LT_25K / TOT_HH."
