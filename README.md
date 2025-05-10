@@ -1,5 +1,11 @@
 # Crime and Socioeconomic Factors in Chicago: A Data Driven Approach
 
+## Fork Attribution  
+_This is a fork of a private, course-hosted repository (not publicly accessible).  
+Fork point: `0081e8d` on April 19, 2025, at 4:21 PM (GMT+10).  
+All commits after that point are my own contributions._
+
+
 ## Overview
 
 This project analyzes the relationship between crime rates and various socioeconomic factors across Chicago's 77 community areas. The goal is to move beyond simple crime prediction and identify key socioeconomic drivers that correlate with crime patterns.
@@ -46,10 +52,10 @@ The ultimate aim is to provide transparent insights into the complex interplay b
 
 ## Getting Started
 
-1.  **Clone the repository (or use submitted source code) :**
+1.  **Clone the repository:**
     ```bash
-    git clone https://github.gatech.edu/amoughnieh3/CSE-6242-SP25-team077.git
-    cd CSE-6242-SP25-team077
+    git clone https://github.com/amoughnieh/chicago-crime-indicators.git
+    cd chicago-crime-indicators
     ```
 2.  **Set up Python Environment & Install Dependencies:** (See **Requirements** section above).
 3.  **Set up Data:** (See **Data** section above). Ensure data files are downloaded, placed correctly, and the crime data is preprocessed if necessary.
